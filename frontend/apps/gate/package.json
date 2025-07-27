@@ -35,6 +35,7 @@
     "@wso2/eslint-plugin": "https://gitpkg.now.sh/brionmario/wso2-ui-configs/packages/eslint-plugin?4ee6f6be232d7631999d709a86b91612f1d34ce7",
     "@wso2/prettier-config": "https://gitpkg.now.sh/brionmario/wso2-ui-configs/packages/prettier-config?4ee6f6be232d7631999d709a86b91612f1d34ce7",
     "@wso2/stylelint-config": "https://gitpkg.now.sh/brionmario/wso2-ui-configs/packages/stylelint-config?4ee6f6be232d7631999d709a86b91612f1d34ce7",
+    "cross-env": "^10.0.0",
     "eslint": "^9.27.0",
     "eslint-config-next": "^15.1.8",
     "eslint-config-prettier": "^10.1.5",
